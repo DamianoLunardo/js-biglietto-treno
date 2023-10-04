@@ -15,7 +15,7 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio,
 5. Applica lo sconto in base all'età del passeggero
 6. Calcola il prezzo scontato
 7. Formatta il prezzo finale con massimo due decimali
-8. Stampa il prezzo finale
+8. Stampa il prezzo finale a schermo
 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
