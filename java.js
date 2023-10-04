@@ -1,6 +1,6 @@
 // chiedi all'utente il numero di chilometri da fare e la sua età
 let numeroChilometri = parseInt(prompt("Quanti chilometri vuoi percorrere?"));
-let etaPasseggiero = parseInt(prompt("Quanti anni hai?"));
+let etapasseggero = parseInt(prompt("Quanti anni hai?"));
 
 // prezzo per ogni chilometro
 const prezzoPerChilometro = 0.21;
@@ -12,9 +12,9 @@ const prezzoBase = numeroChilometri * prezzoPerChilometro;
 let sconto = 0;
 
 // applico lo sconto in base all'età
-if (etaPasseggiero < 18) {
+if (etapasseggero < 18) {
     sconto = prezzoBase * 20 / 100;
-} else if (etaPasseggiero > 65) {
+} else if (etapasseggero > 65) {
     sconto = prezzoBase * 40 / 100;
 }
 
