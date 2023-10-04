@@ -1,4 +1,4 @@
- # Il programma dovrà chiedere all’utente il numero di chilometri che vuole percorrere e l’età del passeggero.
+ # Il programma dovrà chiedere all’utente il numero di chilometri che vuole percorrere e l’età del Passeggero.
 
 ## Descrizione 
 Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio, secondo queste regole:
